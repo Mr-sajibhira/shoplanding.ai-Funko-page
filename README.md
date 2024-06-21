@@ -1,0 +1,1 @@
+# shoplanding.ai-Funko-page
