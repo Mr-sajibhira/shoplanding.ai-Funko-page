@@ -1,0 +1,968 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "zegsu-header-bar": {
+        "type": "apps",
+        "disabled": true,
+        "settings": {
+          "include_margins": true
+        }
+      },
+      "funko_hero_banner_VV4TfY": {
+        "type": "funko-hero-banner",
+        "blocks": {
+          "rating_LNxkBq": {
+            "type": "rating",
+            "settings": {
+              "star": "4.7",
+              "font_size": 20,
+              "margin_bottom": 20,
+              "mobail_font_size": 20,
+              "mobail_margin_bottom": 5,
+              "starcolor": "#ffa500",
+              "emptystarcolor": "#ffffff",
+              "textcolor": "#ffffff"
+            }
+          },
+          "title_DgprpK": {
+            "type": "title",
+            "settings": {
+              "title": "Unleash Your Inner Pop Star!",
+              "textcolor": "#ffffff",
+              "font_size": 60,
+              "line_height": 60,
+              "font_weight": "700",
+              "margin_bottom": 30,
+              "mobail_font_size": 36,
+              "mobail_line_height": 42,
+              "mobail_margin_bottom": 20
+            }
+          },
+          "richtext_BUVETV": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>Welcome to Pop! Yourself online. In a world full of Pop! abilities, Funko now offers the opportunity to create online custom collectibles and order them right to your door.<\/p><ul><li>Customized collectible for only $30<\/li><li>Express yourself with ease thanks to the online builder<\/li><li>Get your personalized Pop! fast with quick shipping<\/li><\/ul>",
+              "textcolor": "#ffffff",
+              "font_size": 16,
+              "line_height": 27,
+              "font_weight": "300",
+              "margin_bottom": 50,
+              "mobail_font_size": 16,
+              "mobail_line_height": 24,
+              "mobail_margin_bottom": 25
+            }
+          },
+          "button_fDePWh": {
+            "type": "button",
+            "settings": {
+              "btnlink": "#",
+              "btntext": "Customize Your Pop!",
+              "btnafter": "FREE Shipping on Orders of 65+",
+              "padding": "10px 45px",
+              "font_size": 18,
+              "font_weight": "500",
+              "border_width": 1,
+              "border_radius": 0,
+              "margin_bottom": 0,
+              "mobail_padding": "10px 45px",
+              "mobaile_font_size": 17,
+              "mobail_margin_bottom": 20,
+              "text_color": "#ffffff",
+              "btn_color": "#ffb70b",
+              "border_color": "#ffb70b",
+              "text_bottom_color": "#ffffff",
+              "btn_text_hover": "#ffffff",
+              "btn_color_hover": "#0078e2",
+              "border_color_hover": "#ffb70b"
+            }
+          }
+        },
+        "block_order": [
+          "rating_LNxkBq",
+          "title_DgprpK",
+          "richtext_BUVETV",
+          "button_fDePWh"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#0078e2",
+          "image": "shopify:\/\/shop_images\/472241699419063450-8ac81b14-9ef3-4556-a0b8-edbbe4987809.jpg",
+          "mobail_image": "shopify:\/\/shop_images\/472241699419063450-134d52e2-f0cf-4e3c-b467-9dee3503410d.jpg",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "mobail_top": 30,
+          "mobail_bottom": 30
+        }
+      },
+      "funko_logo_text_VfVj7c": {
+        "type": "funko-logo-text",
+        "blocks": {
+          "image_UpxiA6": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-376bf6ef-045e-48bc-9db6-492fc33c862d.webp",
+              "aspect_ratio": "5\/1",
+              "object_fit": "contain",
+              "border_px": "px",
+              "border_radius": 0
+            }
+          },
+          "title_wmEwdL": {
+            "type": "title",
+            "settings": {
+              "title": "\"Let a more democratic era of Pop culture begin\"",
+              "textcolor": "#ffffff",
+              "font_size": 38,
+              "line_height": 44,
+              "font_weight": "600",
+              "mobail_font_size": 24,
+              "mobail_line_height": 30,
+              "mobail_margin_bottom": 0
+            }
+          }
+        },
+        "block_order": [
+          "image_UpxiA6",
+          "title_wmEwdL"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#85e059",
+          "laptop_top": 40,
+          "laptop_bottom": 40,
+          "mobail_top": 30,
+          "mobail_bottom": 30
+        }
+      },
+      "funko_icon_box_hfccV4": {
+        "type": "funko-icon-box",
+        "blocks": {
+          "iconbox_8dBwVW": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "Your Fandom from Your Perspective",
+              "text": "Imagine stepping into the shoes of your favorite icons from the world of pop culture. Get the thrill of becoming a Funko Pop! figure, joining the ranks of your beloved fandoms. "
+            }
+          },
+          "iconbox_6aUWyc": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "Customization Galore",
+              "text": "You can craft your Funko Pop! figure down to the smallest detail. The possibilities are virtually limitless, allowing you to create a Pop! that truly reflects your individuality."
+            }
+          },
+          "iconbox_mLj78k": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "Personalized Packaging",
+              "text": "Your name on the front, a space for a personalized note on the back. Makes for a perfect gift for a special person, or a treat for yourself. "
+            }
+          }
+        },
+        "block_order": [
+          "iconbox_8dBwVW",
+          "iconbox_6aUWyc",
+          "iconbox_mLj78k"
+        ],
+        "settings": {
+          "container": "container-full",
+          "bgcolor": "#ffffff",
+          "laptop_top": 50,
+          "laptop_bottom": 50,
+          "box_gap": 15,
+          "box_padding": 10,
+          "icon_width": "40px",
+          "aspect_ratio": "1\/1",
+          "object_fit": "contain",
+          "icon_margin": 5,
+          "title_font_size": 24,
+          "title_line_height": 28,
+          "title_font_weight": "700",
+          "title_margin_bottom": 5,
+          "text_font_size": 16,
+          "text_line_height": 22,
+          "text_font_weight": "400",
+          "text_margin_bottom": 0,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "mobail_box_gap": 10,
+          "mobail_box_padding": 0,
+          "mobaile_icon_width": "30",
+          "mobail_icon_margin": 0,
+          "mobaile_title_font_size": 18,
+          "mobaile_title_line_height": 24,
+          "mobaile_title_margin_bottom": 5,
+          "mobaile_text_font_size": 16,
+          "mobail_text_line_height": 20,
+          "mobail_text_margin_bottom": 0,
+          "title_color": "#0078e2",
+          "text_color": "#0078e2",
+          "box_color": ""
+        }
+      },
+      "funko_instagram_UgrPRP": {
+        "type": "funko-instagram",
+        "blocks": {
+          "title_XNiFQD": {
+            "type": "title",
+            "settings": {
+              "title": "As Many Possibilities as People, #PopYourself",
+              "textcolor": "#0078e2",
+              "text_align": "center",
+              "width": 100,
+              "align_content": "0px auto 0px 0px",
+              "font_size": 38,
+              "line_height": 38,
+              "font_weight": "700",
+              "margin_bottom": 20,
+              "mobail_text_align": "center",
+              "mobail_width": 100,
+              "mobail_align_content": "0px auto 0px 0px",
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 15
+            }
+          },
+          "richtext_aBjnPg": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>Transform Yourself into Collectible Artistry – Welcome to the Pop! Yourself Experience!<\/p>",
+              "textcolor": "#38435c",
+              "text_align": "center",
+              "width": 100,
+              "align_content": "0px auto 0px 0px",
+              "font_size": 16,
+              "line_height": 20,
+              "font_weight": "300",
+              "margin_bottom": 30,
+              "mobail_text_align": "center",
+              "mobail_width": 100,
+              "mobail_align_content": "0px auto 0px 0px",
+              "mobail_font_size": 16,
+              "mobail_line_height": 24,
+              "mobail_margin_bottom": 30
+            }
+          },
+          "instagram_Vr7KNq": {
+            "type": "instagram",
+            "settings": {
+              "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/reel\/CwVoliUqjc_\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n    <div style=\"padding:16px;\">\n<a href=\"https:\/\/www.instagram.com\/reel\/CwVoliUqjc_\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\">\n            <div style=\" display: flex; flex-direction: row; align-items: center;\">\n                <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\">\n                <\/div>\n                <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n                    <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\">\n                    <\/div>\n                    <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\">\n                    <\/div>\n                <\/div>\n            <\/div>\n            <div style=\"padding: 19% 0;\"><\/div>\n            <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\">\n                    <g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\">\n                        <g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\">\n                            <g>\n                                <path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\">\n                                <\/path>\n                            <\/g>\n                        <\/g>\n                    <\/g>\n                <\/svg><\/div>\n            <div style=\"padding-top: 8px;\">\n                <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">\n                    View this post on Instagram<\/div>\n            <\/div>\n            <div style=\"padding: 12.5% 0;\"><\/div>\n            <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n                <div>\n                    <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\">\n                    <\/div>\n                    <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\">\n                    <\/div>\n                    <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\">\n                    <\/div>\n                <\/div>\n                <div style=\"margin-left: 8px;\">\n                    <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\">\n                    <\/div>\n                    <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\">\n                    <\/div>\n                <\/div>\n                <div style=\"margin-left: auto;\">\n                    <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\">\n                    <\/div>\n                    <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\">\n                    <\/div>\n                    <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\">\n                    <\/div>\n                <\/div>\n            <\/div>\n            <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\">\n                <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\">\n                <\/div>\n                <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\">\n                <\/div>\n            <\/div>\n        <\/a>\n\n    <\/div>\n<\/blockquote>\n<script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+            }
+          },
+          "instagram_Ge6pMb": {
+            "type": "instagram",
+            "settings": {
+              "embed": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@t_jack10\/video\/7270629276792229162\" data-video-id=\"7270629276792229162\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@t_jack10\" href=\"https:\/\/www.tiktok.com\/@t_jack10?refer=embed\">@t_jack10<\/a> Great new gift for any occasion. Funko Pop Yourself! <a title=\"funkopop\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/funkopop?refer=embed\">#funkopop<\/a> <a title=\"custompop\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/custompop?refer=embed\">#custompop<\/a> <a title=\"popyourself\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/popyourself?refer=embed\">#popyourself<\/a> <a title=\"giftideas\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/giftideas?refer=embed\">#giftideas<\/a> <a target=\"_blank\" title=\"♬ How`s Your Day - aAp Vision\" href=\"https:\/\/www.tiktok.com\/music\/Hows-Your-Day-6941249468143306754?refer=embed\">♬ How`s Your Day - aAp Vision<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+            }
+          },
+          "instagram_U7Njpt": {
+            "type": "instagram",
+            "settings": {
+              "embed": "<blockquote class=\"instagram-media\" data-instgrm-permalink=\"https:\/\/www.instagram.com\/p\/CqvoP4jpQ7u\/?utm_source=ig_embed&utm_campaign=loading\" data-instgrm-version=\"14\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https:\/\/www.instagram.com\/p\/CqvoP4jpQ7u\/?utm_source=ig_embed&utm_campaign=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"><\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"><\/div>\n<\/div>\n<\/div>\n<div style=\"padding: 19% 0;\"><\/div> <div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewbox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"https:\/\/www.w3.org\/1999\/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"><\/path><\/g><\/g><\/g><\/svg><\/div>\n<div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\">View this post on Instagram<\/div>\n<\/div>\n<div style=\"padding: 12.5% 0;\"><\/div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"><\/div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"><\/div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"><\/div>\n<\/div>\n<div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"><\/div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"><\/div>\n<\/div>\n<div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"><\/div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"><\/div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"><\/div>\n<\/div>\n<\/div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;\"><\/div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;\"><\/div>\n<\/div><\/a><p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\"><a href=\"https:\/\/www.instagram.com\/p\/CqvoP4jpQ7u\/?utm_source=ig_embed&utm_campaign=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\" target=\"_blank\">A post shared by Marisol | Ghost Face & Toy Enthusiast (@the_pop_foxx)<\/a><\/p>\n<\/div><\/blockquote> <script async src=\"\/\/www.instagram.com\/embed.js\"><\/script>"
+            }
+          }
+        },
+        "block_order": [
+          "title_XNiFQD",
+          "richtext_aBjnPg",
+          "instagram_Vr7KNq",
+          "instagram_Ge6pMb",
+          "instagram_U7Njpt"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#f3f3ef",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "box_gap": 15,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "mobail_box_gap": 15
+        }
+      },
+      "funko_icon_box_epLki4": {
+        "type": "funko-icon-box",
+        "blocks": {
+          "title_6bJPXa": {
+            "type": "title",
+            "settings": {
+              "title": "Your Funko Pop, Your Way",
+              "textcolor": "#0078e2",
+              "text_align": "center",
+              "width": 100,
+              "align_content": "0px auto 0px 0px",
+              "font_size": 38,
+              "line_height": 38,
+              "font_weight": "700",
+              "margin_bottom": 30,
+              "mobail_text_align": "center",
+              "mobail_width": 80,
+              "mobail_align_content": "0px auto",
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 20
+            }
+          },
+          "iconbox_wU7DyC": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "left",
+              "mtext_align": "center",
+              "title": "Personalize Every Detail",
+              "text": "With our customization tool, you're in control of every aspect of your Funko Pop's appearance. From choosing the perfect hairstyle to matching your skin tone and crafting the ideal outfit, you can fine-tune every detail. It's your chance to create a Funko Pop that's unmistakably you, down to the last feature."
+            }
+          },
+          "iconbox_tfbPwB": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "left",
+              "mtext_align": "left",
+              "title": "",
+              "text": "<blockquote class=\"tiktok-embed\" cite=\"https:\/\/www.tiktok.com\/@t_jack10\/video\/7270629276792229162\" data-video-id=\"7270629276792229162\" style=\"max-width: 605px;min-width: 325px;\"> <section> <a target=\"_blank\" title=\"@t_jack10\" href=\"https:\/\/www.tiktok.com\/@t_jack10?refer=embed\">@t_jack10<\/a> Great new gift for any occasion. Funko Pop Yourself! <a title=\"funkopop\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/funkopop?refer=embed\">#funkopop<\/a> <a title=\"custompop\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/custompop?refer=embed\">#custompop<\/a> <a title=\"popyourself\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/popyourself?refer=embed\">#popyourself<\/a> <a title=\"giftideas\" target=\"_blank\" href=\"https:\/\/www.tiktok.com\/tag\/giftideas?refer=embed\">#giftideas<\/a> <a target=\"_blank\" title=\"♬ How`s Your Day - aAp Vision\" href=\"https:\/\/www.tiktok.com\/music\/Hows-Your-Day-6941249468143306754?refer=embed\">♬ How`s Your Day - aAp Vision<\/a> <\/section> <\/blockquote> <script async src=\"https:\/\/www.tiktok.com\/embed.js\"><\/script>"
+            }
+          },
+          "iconbox_9r4A3W": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "right",
+              "mtext_align": "center",
+              "title": "Buddy Up with Your Funko Pop",
+              "text": "Whether it's a sidekick, a best friend, or even a beloved pet, bring your imagination to life and make your Funko Pop adventures twice as exciting."
+            }
+          }
+        },
+        "block_order": [
+          "title_6bJPXa",
+          "iconbox_wU7DyC",
+          "iconbox_tfbPwB",
+          "iconbox_9r4A3W"
+        ],
+        "custom_css": [
+          ".id_template--22936802787616__funko_icon_box_epLki4 .row .col {display: flex; align-content: center; justify-content: center; flex-wrap: wrap;}",
+          ".id_template--22936802787616__funko_icon_box_epLki4 .row .col .icon_box {height: auto;}"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#ffffff",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "box_gap": 50,
+          "box_padding": 0,
+          "icon_width": "0",
+          "aspect_ratio": "",
+          "object_fit": "fill",
+          "icon_margin": 0,
+          "title_font_size": 18,
+          "title_line_height": 26,
+          "title_font_weight": "700",
+          "title_margin_bottom": 15,
+          "text_font_size": 16,
+          "text_line_height": 22,
+          "text_font_weight": "400",
+          "text_margin_bottom": 0,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "mobail_box_gap": 15,
+          "mobail_box_padding": 0,
+          "mobaile_icon_width": "",
+          "mobail_icon_margin": 10,
+          "mobaile_title_font_size": 18,
+          "mobaile_title_line_height": 18,
+          "mobaile_title_margin_bottom": 10,
+          "mobaile_text_font_size": 16,
+          "mobail_text_line_height": 22,
+          "mobail_text_margin_bottom": 10,
+          "title_color": "",
+          "text_color": "",
+          "box_color": ""
+        }
+      },
+      "funko_about_us_bAbLJJ": {
+        "type": "funko-about-us",
+        "blocks": {
+          "image_kaLxfH": {
+            "type": "image",
+            "settings": {
+              "img1": "shopify:\/\/shop_images\/472241699419063450-14ced954-6338-425e-a4d1-a8a84cc7f7d6.png",
+              "aspect_ratio": "",
+              "object_fit": "cover",
+              "border_px": "px",
+              "border_radius": 0,
+              "bg": ""
+            }
+          },
+          "title_gXnFEj": {
+            "type": "title",
+            "settings": {
+              "title": "How does Pop! Yourself work?",
+              "textcolor": "#000000",
+              "font_size": 35,
+              "line_height": 40,
+              "font_weight": "700",
+              "margin_bottom": 10,
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 10
+            }
+          },
+          "richtext_mFV69g": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>The new and improved Pop! Yourself experience costs $30, which includes the custom figure and personalized box. Buddies are an additional $4 and will be placed in the box with the built figure. *Limit 2 per figure, at present.  <\/p><p>Pop! Protectors are optional and can be purchased for $8.<\/p>",
+              "textcolor": "#000000",
+              "font_size": 16,
+              "line_height": 24,
+              "font_weight": "300",
+              "margin_bottom": 25,
+              "mobail_font_size": 14,
+              "mobail_line_height": 20,
+              "mobail_margin_bottom": 20
+            }
+          },
+          "button_xbWcLC": {
+            "type": "button",
+            "settings": {
+              "btnlink": "#",
+              "btntext": "Customize Your Pop!",
+              "btnafter": "FREE Shipping on Orders of 65+",
+              "padding": "10px 45px",
+              "font_size": 18,
+              "font_weight": "500",
+              "border_width": 1,
+              "border_radius": 0,
+              "margin_bottom": 15,
+              "mobail_padding": "10px 45px",
+              "mobaile_font_size": 17,
+              "mobail_margin_bottom": 15,
+              "text_color": "#ffffff",
+              "btn_color": "#ffb70b",
+              "border_color": "#ffb70b",
+              "text_bottom_color": "#000000",
+              "btn_text_hover": "#ffffff",
+              "btn_color_hover": "#0078e2",
+              "border_color_hover": "#0078e2"
+            }
+          }
+        },
+        "block_order": [
+          "image_kaLxfH",
+          "title_gXnFEj",
+          "richtext_mFV69g",
+          "button_xbWcLC"
+        ],
+        "settings": {
+          "container": "container",
+          "flexdirection": "row",
+          "mobail_flexdirection": "column-reverse",
+          "aling": "center",
+          "bgcolor": "#ffffff",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "border_width": "0",
+          "border_color": "#d9d9d9"
+        }
+      },
+      "funko_about_us_8dADb4": {
+        "type": "funko-about-us",
+        "blocks": {
+          "title_zJLgBe": {
+            "type": "title",
+            "settings": {
+              "title": "Crafting Your Unique Funko Pop is a Breeze",
+              "textcolor": "#000000",
+              "font_size": 35,
+              "line_height": 40,
+              "font_weight": "700",
+              "margin_bottom": 10,
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 10
+            }
+          },
+          "richtext_YTGwF8": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>Experience the simplicity and endless creativity of our Funko Pop customization tool. Transform your figures into unique masterpieces with ease and explore a multitude of customization options that cater to your imagination's every whim. Personalize, create, and enjoy the process – it's all at your fingertips!<\/p>",
+              "textcolor": "#000000",
+              "font_size": 16,
+              "line_height": 24,
+              "font_weight": "300",
+              "margin_bottom": 25,
+              "mobail_font_size": 14,
+              "mobail_line_height": 20,
+              "mobail_margin_bottom": 20
+            }
+          },
+          "button_qUGfdy": {
+            "type": "button",
+            "settings": {
+              "btnlink": "#",
+              "btntext": "Customize Your Pop!",
+              "btnafter": "FREE Shipping on Orders of 65+",
+              "padding": "10px 45px",
+              "font_size": 18,
+              "font_weight": "500",
+              "border_width": 1,
+              "border_radius": 0,
+              "margin_bottom": 15,
+              "mobail_padding": "10px 45px",
+              "mobaile_font_size": 17,
+              "mobail_margin_bottom": 15,
+              "text_color": "#ffffff",
+              "btn_color": "#ffb70b",
+              "border_color": "#ffb70b",
+              "text_bottom_color": "#000000",
+              "btn_text_hover": "#ffffff",
+              "btn_color_hover": "#0078e2",
+              "border_color_hover": "#0078e2"
+            }
+          },
+          "image_MMFraJ": {
+            "type": "image",
+            "settings": {
+              "img1": "shopify:\/\/shop_images\/472241699419063450-13d8344f-fd2f-4451-8763-a0915923c508.png",
+              "img2": "shopify:\/\/shop_images\/472241699419063450-b27a3cb1-daf3-4a16-bb1b-0b4e238fa79c.png",
+              "img3": "shopify:\/\/shop_images\/472241699419063450-af200da0-455b-486c-bffe-60e15cdca1f5.png",
+              "img4": "shopify:\/\/shop_images\/472241699419063450-6c6e9186-7995-4230-a138-7607e8e6baa9.png",
+              "aspect_ratio": "",
+              "object_fit": "cover",
+              "border_px": "px",
+              "border_radius": 0,
+              "bg": ""
+            }
+          }
+        },
+        "block_order": [
+          "title_zJLgBe",
+          "richtext_YTGwF8",
+          "button_qUGfdy",
+          "image_MMFraJ"
+        ],
+        "settings": {
+          "container": "container",
+          "flexdirection": "row-reverse",
+          "mobail_flexdirection": "column-reverse",
+          "aling": "center",
+          "bgcolor": "#ffffff",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "mobail_top": 64,
+          "mobail_bottom": 64,
+          "border_width": "0",
+          "border_color": "#d9d9d9"
+        }
+      },
+      "funko_about_us_UCtzCH": {
+        "type": "funko-about-us",
+        "blocks": {
+          "title_hQwtnc": {
+            "type": "title",
+            "settings": {
+              "title": "How does Pop! Yourself work?",
+              "textcolor": "#000000",
+              "font_size": 35,
+              "line_height": 40,
+              "font_weight": "700",
+              "margin_bottom": 20,
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 10
+            }
+          },
+          "accordion_CPjeF4": {
+            "type": "accordion",
+            "settings": {
+              "margin_bottom": 20,
+              "title_font_size": 18,
+              "title_font_weight": "600",
+              "text_font_size": 16,
+              "icon_width": 20,
+              "mobail_margin_bottom": 20,
+              "mobail_title_font_size": 16,
+              "mobail_text_font_size": 14,
+              "mobail_icon_width": 16,
+              "title_color": "#0078e2",
+              "text_color": "#252525"
+            }
+          },
+          "button_G3qteq": {
+            "type": "button",
+            "settings": {
+              "btnlink": "#",
+              "btntext": "Customize Your Pop!",
+              "btnafter": "FREE Shipping on Orders of 65+",
+              "padding": "10px 45px",
+              "font_size": 18,
+              "font_weight": "500",
+              "border_width": 1,
+              "border_radius": 0,
+              "margin_bottom": 15,
+              "mobail_padding": "10px 45px",
+              "mobaile_font_size": 17,
+              "mobail_margin_bottom": 15,
+              "text_color": "#ffffff",
+              "btn_color": "#ffb70b",
+              "border_color": "#ffb70b",
+              "text_bottom_color": "#000000",
+              "btn_text_hover": "#ffffff",
+              "btn_color_hover": "#0078e2",
+              "border_color_hover": "#0078e2"
+            }
+          },
+          "accordion_list_bntJrL": {
+            "type": "accordion_list",
+            "settings": {
+              "title": "How much does it cost?",
+              "text": "he new and improved Pop! Yourself experience costs $30, which includes the custom figure and personalized box. Buddies are an additional $4 and will be placed in the box with the built figure. *Limit 2 per figure, at present.  Pop! Protectors are optional and can be purchased for $8."
+            }
+          },
+          "accordion_list_FnmJKz": {
+            "type": "accordion_list",
+            "settings": {
+              "title": "How long will it take to build and ship?",
+              "text": "As part of the initial launch, please allow seven (7) to ten (10) business days for shipment following purchase."
+            }
+          },
+          "accordion_list_qDJcTV": {
+            "type": "accordion_list",
+            "settings": {
+              "title": "Can I download, share, and save my avatar?",
+              "text": "Of course! This feature will remain available. We want everybody to share their Pop!pleganger!"
+            }
+          },
+          "image_h63QMy": {
+            "type": "image",
+            "settings": {
+              "img1": "shopify:\/\/shop_images\/472241699419063450-1bf75960-5cf6-49d5-b5ad-1d9bd0072c05.png",
+              "aspect_ratio": "1\/1",
+              "object_fit": "contain",
+              "border_px": "%",
+              "border_radius": 100,
+              "bg": "#1890ff"
+            }
+          }
+        },
+        "block_order": [
+          "title_hQwtnc",
+          "accordion_CPjeF4",
+          "button_G3qteq",
+          "accordion_list_bntJrL",
+          "accordion_list_FnmJKz",
+          "accordion_list_qDJcTV",
+          "image_h63QMy"
+        ],
+        "settings": {
+          "container": "container",
+          "flexdirection": "row",
+          "mobail_flexdirection": "column-reverse",
+          "aling": "center",
+          "bgcolor": "#ffffff",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "border_width": "0",
+          "border_color": "#d9d9d9"
+        }
+      },
+      "funko_icon_box_qekJjT": {
+        "type": "funko-icon-box",
+        "blocks": {
+          "title_Vnhfjh": {
+            "type": "title",
+            "settings": {
+              "title": "Elevate Your Collection with Your Personal Pop",
+              "textcolor": "#38435c",
+              "text_align": "center",
+              "width": 100,
+              "align_content": "0px auto 0px 0px",
+              "font_size": 38,
+              "line_height": 38,
+              "font_weight": "700",
+              "margin_bottom": 50,
+              "mobail_text_align": "center",
+              "mobail_width": 100,
+              "mobail_align_content": "0px auto 0px 0px",
+              "mobail_font_size": 25,
+              "mobail_line_height": 32,
+              "mobail_margin_bottom": 25
+            }
+          },
+          "iconbox_pUz4aG": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "Express Your Unique Style",
+              "text": "With customization, you have the power to bring your personality to life through your Funko Pops. Whether it's recreating your favorite characters with a personal twist or designing entirely new figures, customization allows you to showcase your distinctive style and tastes."
+            }
+          },
+          "iconbox_NddGWY": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "Unlimited Creativity",
+              "text": "The possibilities are endless when it comes to customization. From choosing colors, accessories, and poses to adding intricate details, you can let your creativity run wild. It's the ultimate platform for turning your wildest ideas into tangible collectibles."
+            }
+          },
+          "iconbox_kVdxxN": {
+            "type": "iconbox",
+            "settings": {
+              "text_align": "center",
+              "mtext_align": "center",
+              "icon_id": "shopify:\/\/shop_images\/472241699419063450-1d06a536-c627-4641-874f-bbaf74365faf.png",
+              "title": "One-of-a-Kind Collectibles",
+              "text": "Customized Funko Pops are not just figures; they're unique pieces of art. When you create your custom figures, you're adding exclusive collectibles to your stash. Stand out from the crowd with figures that no one else owns, making your collection truly special."
+            }
+          }
+        },
+        "block_order": [
+          "title_Vnhfjh",
+          "iconbox_pUz4aG",
+          "iconbox_NddGWY",
+          "iconbox_kVdxxN"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#f3f3ef",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "box_gap": 15,
+          "box_padding": 15,
+          "icon_width": "40px",
+          "aspect_ratio": "1\/1",
+          "object_fit": "contain",
+          "icon_margin": 10,
+          "title_font_size": 18,
+          "title_line_height": 22,
+          "title_font_weight": "600",
+          "title_margin_bottom": 16,
+          "text_font_size": 16,
+          "text_line_height": 24,
+          "text_font_weight": "400",
+          "text_margin_bottom": 10,
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "mobail_box_gap": 15,
+          "mobail_box_padding": 20,
+          "mobaile_icon_width": "",
+          "mobail_icon_margin": 10,
+          "mobaile_title_font_size": 18,
+          "mobaile_title_line_height": 18,
+          "mobaile_title_margin_bottom": 15,
+          "mobaile_text_font_size": 16,
+          "mobail_text_line_height": 22,
+          "mobail_text_margin_bottom": 10,
+          "title_color": "#38435c",
+          "text_color": "",
+          "box_color": "#ffffff"
+        }
+      },
+      "funko_gallery_wqUt3G": {
+        "type": "funko-gallery",
+        "blocks": {
+          "image_Uwcg3T": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-81f5b4d4-f101-485d-bbef-01afabbf746a.webp"
+            }
+          },
+          "image_DECUNY": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-675f67ef-5f41-454a-a472-dea57de676c7.jpg"
+            }
+          },
+          "image_8bVfyN": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-134d52e2-f0cf-4e3c-b467-9dee3503410d_1.jpg"
+            }
+          },
+          "image_xbK6Wa": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-72d80435-8ff7-4e2c-804e-84ccd2efb982.png"
+            }
+          },
+          "image_fffwbX": {
+            "type": "image",
+            "settings": {
+              "img": "shopify:\/\/shop_images\/472241699419063450-d0bdc9f3-7724-4597-b4e2-31e671aef8ee.png"
+            }
+          }
+        },
+        "block_order": [
+          "image_Uwcg3T",
+          "image_DECUNY",
+          "image_8bVfyN",
+          "image_xbK6Wa",
+          "image_fffwbX"
+        ],
+        "settings": {
+          "container": "container-full",
+          "bgcolor": "#ffffff",
+          "laptop_top": 50,
+          "laptop_bottom": 50,
+          "box_gap": 10,
+          "icon_width": "100%",
+          "aspect_ratio": "1\/1",
+          "object_fit": "cover",
+          "mobail_top": 30,
+          "mobail_bottom": 30,
+          "mobail_box_gap": 5
+        }
+      },
+      "funko_reviews_jh7RzW": {
+        "type": "funko-reviews",
+        "blocks": {
+          "review_cPYX3M": {
+            "type": "review",
+            "settings": {
+              "img_id": "shopify:\/\/shop_images\/472241699419063450-b9891185-44c3-4e1f-ae95-72e60189df74.webp",
+              "title": "The Best Gift",
+              "text": "They are absolutely worth the price as a gift...I am looking forward to treating myself to one too.",
+              "name": "Candice"
+            }
+          },
+          "review_Dg8Xad": {
+            "type": "review",
+            "settings": {
+              "img_id": "shopify:\/\/shop_images\/472241699419063450-ddb5ffc0-3d9d-41f2-a5fb-0ba906209def.jpg",
+              "title": "The Best Gift",
+              "text": "They are absolutely worth the price as a gift...I am looking forward to treating myself to one too.",
+              "name": "Candice"
+            }
+          },
+          "review_YG6mEx": {
+            "type": "review",
+            "settings": {
+              "img_id": "shopify:\/\/shop_images\/472241699419063450-c7bc560a-d9d6-419c-82bc-33cc4542b0f0.jpg",
+              "title": "The Best Gift",
+              "text": "They are absolutely worth the price as a gift...I am looking forward to treating myself to one too.",
+              "name": "Candice"
+            }
+          },
+          "review_cz8DA4": {
+            "type": "review",
+            "settings": {
+              "img_id": "shopify:\/\/shop_images\/472241699419063450-b9891185-44c3-4e1f-ae95-72e60189df74.webp",
+              "title": "The Best Gift",
+              "text": "They are absolutely worth the price as a gift...I am looking forward to treating myself to one too.",
+              "name": "Candice"
+            }
+          }
+        },
+        "block_order": [
+          "review_cPYX3M",
+          "review_Dg8Xad",
+          "review_YG6mEx",
+          "review_cz8DA4"
+        ],
+        "settings": {
+          "container": "container",
+          "bgcolor": "#fefefe",
+          "laptop_top": 80,
+          "laptop_bottom": 80,
+          "box_gap": 30,
+          "box_padding": 20,
+          "icon_width": "100%",
+          "aspect_ratio": "2\/1.2",
+          "object_fit": "cover",
+          "icon_size": 20,
+          "title_font_size": 18,
+          "title_line_height": 24,
+          "title_font_weight": "600",
+          "title_margin_bottom": 8,
+          "text_font_size": 16,
+          "text_line_height": 22,
+          "text_font_weight": "400",
+          "text_margin_bottom": 25,
+          "mobail_top": 40,
+          "mobail_bottom": 40,
+          "mobail_box_padding": 20,
+          "mobaile_icon_width": "",
+          "mobail_icon_star": 20,
+          "mobaile_title_font_size": 16,
+          "mobaile_title_line_height": 18,
+          "mobaile_title_margin_bottom": 5,
+          "mobaile_text_font_size": 14,
+          "mobail_text_line_height": 22,
+          "mobail_text_margin_bottom": 20,
+          "star_color": "#0078e2",
+          "title_color": "#38435c",
+          "text_color": "#252525",
+          "box_color": "#f6f7f4"
+        }
+      },
+      "funko_logo_banner_cTXLLR": {
+        "type": "funko-logo-banner",
+        "settings": {
+          "container": "container",
+          "bgcolor": "#02c2e8",
+          "bgimage": "shopify:\/\/shop_images\/472241699419063450-f0cc1ecc-4551-4a24-84b0-6cc068abb9d5.jpg",
+          "mobail_bgimage": "shopify:\/\/shop_images\/file.png",
+          "logo": "shopify:\/\/shop_images\/svgexport-1.svg",
+          "laptop_top": 150,
+          "laptop_bottom": 150,
+          "text_align": "left",
+          "icon_width": "200px",
+          "aspect_ratio": "2\/1",
+          "object_fit": "contain",
+          "icon_margin": 50,
+          "mobail_top": 64,
+          "mobail_bottom": 64,
+          "mobail_text_align": "center",
+          "mobaile_icon_width": "100px",
+          "mobail_icon_margin": 300
+        }
+      }
+    },
+    "order": [
+      "main",
+      "zegsu-header-bar",
+      "funko_hero_banner_VV4TfY",
+      "funko_logo_text_VfVj7c",
+      "funko_icon_box_hfccV4",
+      "funko_instagram_UgrPRP",
+      "funko_icon_box_epLki4",
+      "funko_about_us_bAbLJJ",
+      "funko_about_us_8dADb4",
+      "funko_about_us_UCtzCH",
+      "funko_icon_box_qekJjT",
+      "funko_gallery_wqUt3G",
+      "funko_reviews_jh7RzW",
+      "funko_logo_banner_cTXLLR"
+    ]
+  }
+  
